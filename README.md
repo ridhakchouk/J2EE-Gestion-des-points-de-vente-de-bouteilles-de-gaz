@@ -1,0 +1,2 @@
+# J2EE-Gestion-des-points-de-vente-de-bouteilles-de-gaz
+Application J2EE Gestion des points de vente de bouteilles de gaz   Base de données : MySQL avec cryptage des données par Bcrypt passant par Java. Framework : Hibernate, Spring, Bootstrap  Architecture logicielle : Spring MVC  J2EE Application Gas Cylinder Point of Sale Management   Database: MySQL with Bcrypt data encryption through Java. Framework: Hibernate, Spring, Bootstrap  Software architecture: Spring MVC
